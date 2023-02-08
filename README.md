@@ -1,16 +1,27 @@
-### Hi there 👋
+### if not now, when?
+I love coding works with beautiful design :) 👋
 
-<!--
-**cengizbahar/cengizbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everybody my name is Cengiz 🔭 . I've been a front-end developer for 6 years.📫 I continue my life as a student. It is very exciting for me to learn and research. It gives me pleasure to have new experiences.
+Nature and fishing is my life philosophy.💬 I can say that it is the place where I feel the most free.🔭
 
-Here are some ideas to get you started:
+- https://codepen.io/cengizbahar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# SKİLS 🧑🏻‍💻
+- HTML5 ( PUG ) 
+- CSS3  ( SASS ) 
+- TAİLWİND - BOOTSTRAP CSS 
+- JAVASCRİPT - JQUERY - STORY JS - REACT JS - STORY JS - TYPESCRİPT - GULP JS 
+
+- NPM 
+- SOURCETHREE
+- GİTHUB
+
+# DESİGN 🧑🏻‍💻
+- ZEPLİN
+- FİGMA
+- ADOBE XD
+- ADOBE İLLİSTRATOR
+- ADOBE PHOTOSHOP
+
+
+
