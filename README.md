@@ -18,7 +18,7 @@ Nature and fishing is my life philosophy.💬 I can say that it is the place whe
 - ZEPLİN
 - FİGMA
 - ADOBE XD
-- ADOBE İLLİSTRATOR
+- ADOBE AI
 - ADOBE PHOTOSHOP
 
 
