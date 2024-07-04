@@ -14,7 +14,6 @@ Nature and fishing is my life philosophy.💬 I can say that it is the place whe
 - REACT JS
 - TYPESCRİPT
 - GULP JS
-- 
 - NPM 
 - SOURCETHREE
 - GİTHUB
