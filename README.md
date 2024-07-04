@@ -8,8 +8,13 @@ Nature and fishing is my life philosophy.💬 I can say that it is the place whe
 - HTML5 ( PUG ) 
 - CSS3  ( SASS ) 
 - TAİLWİND - BOOTSTRAP CSS 
-- JAVASCRİPT - JQUERY - STORY JS - REACT JS  - TYPESCRİPT - GULP JS 
-- React
+- JAVASCRİPT
+- JQUERY
+- STORY JS
+- REACT JS
+- TYPESCRİPT
+- GULP JS
+- 
 - NPM 
 - SOURCETHREE
 - GİTHUB
