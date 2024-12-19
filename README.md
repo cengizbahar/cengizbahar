@@ -5,15 +5,13 @@ Hi everybody my name is Cengiz 🔭 . I've been a front-end developer for 6 year
 Nature and fishing is my life philosophy.💬 I can say that it is the place where I feel the most free.🔭
 
 # SKİLS 🧑🏻‍💻
-- HTML5 ( PUG ) 
+- HTML5 
 - CSS3  ( SASS ) 
 - TAİLWİND - BOOTSTRAP CSS 
 - JAVASCRİPT
 - JQUERY
-- STORY JS
 - REACT JS
 - TYPESCRİPT
-- GULP JS
 - NPM 
 - SOURCETHREE
 - GİTHUB
